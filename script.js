@@ -49,7 +49,7 @@ document.addEventListener('click', (e) => {
 
 
     const typingElement = document.getElementById('typing');
-    const words = ["Web Developer", "Developer", "Web Designer", "Youtuber", "Script Writer"];
+    const words = ["Web Developer", "Developer", "Web Designer"];
     let wordIndex = 0;
     let letterIndex = 0;
     let currentWord = '';
